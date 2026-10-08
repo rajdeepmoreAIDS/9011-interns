@@ -1,0 +1,56 @@
+1. Meta
+2.google
+3.entropic
+4.xai
+5.mistral
+6.openai
+7.ai video content
+8. google deepmind
+9.image creation
+10.ai assistant for coding
+11. large language model
+12. AI that can create new content such as text, images, audio, video
+13. It is a instruction given to an AI model to generate a response as per user need .
+14.  It is the instructions that defines how a AI model should behave and respond.
+15. ai modal that can work on multiple type of data
+16. the content generated my AI is incorrect or misleading.
+17. they are small units of text such as words or set of words .
+18. the max amount of tokens that a AI model can take at a time.
+19. its the process of usinng trained model to generate output.
+20. training more to a trained ai model for future specific tasks.
+21. An AI system that can understand a goal and take actions to complete it.
+22. A chatbot mainly answers questions, while an AI agent can plan, use tools, and take actions.
+23. It allows AI to use external tools or functions to perform tasks.
+24. Model Context Protocol, a standard that helps AI connect with external tools and data.
+25. It is used to authenticate and access an AI service.
+26. It is the maximum number of requests you can make to an API within a certain time.
+27. An AI-powered code editor used for programming.
+28. Mainly designed to help users understand, analyze, and ask questions about their documents and sources.
+29. Search that understands the meaning and context of a query, not just exact keywords.
+30. 3 developer tasks:-
+1. Writing and debugging code
+2. Generating documentation
+3. Addressing and fixing errors
+
+31.  ai that converts spoken audio into written text.
+32. ai that converts written text into spoken audio.
+33. Text
+34.  AI model that understands or analyzes images and visual content.
+35. AI that generates video from a text description
+36. Generating images and other media from noise 
+37. used for parallel calculations effectively
+38. Neural Processing Unit
+39. model weight
+40. running the Ai model on your own computer or server 
+41. trained weight is able to download by users.
+42.
+43. parameter-efficient fine-tuning of large AI model
+44. mixture of experts
+45. it is a standardized test used to compare model performance
+46.
+47. An attack that tries to manipulate an AI model 
+48. personally identifiable information
+49. it will lead to privacy, security, or data-leakage risks
+50. verify it by trusted sources or data.
+
+
